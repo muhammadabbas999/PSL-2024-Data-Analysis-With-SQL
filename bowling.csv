@@ -1,0 +1,385 @@
+match,team,match_id,bowlerName,overs.1,overs.2,maiden,runs,wickets,wides,noballs,economy,balls,innings
+Lahore Qalandars vs Islamabad United,Islamabad United,m_01,Naseem Shah,4,0,0,36,1,2,1,9,24,1
+Lahore Qalandars vs Islamabad United,Islamabad United,m_01,Ubaid Shah,1,0,0,15,0,0,0,15,6,1
+Lahore Qalandars vs Islamabad United,Islamabad United,m_01,Faheem Ashraf,3,0,0,40,0,0,0,13.33,18,1
+Lahore Qalandars vs Islamabad United,Islamabad United,m_01,Imad Wasim,4,0,0,33,0,2,0,8.25,24,1
+Lahore Qalandars vs Islamabad United,Islamabad United,m_01,Shadab Khan *,4,0,0,24,1,1,0,6,24,1
+Lahore Qalandars vs Islamabad United,Islamabad United,m_01,Tymal Mills,4,0,0,45,2,0,0,11.25,24,1
+Lahore Qalandars vs Islamabad United,Lahore Qalandars,m_01,Shaheen Shah Afridi *,4,0,0,31,0,3,0,7.75,24,1
+Lahore Qalandars vs Islamabad United,Lahore Qalandars,m_01,Zaman Khan,3,0,1,33,1,2,0,11,18,1
+Lahore Qalandars vs Islamabad United,Lahore Qalandars,m_01,Jahandad Khan,4,0,0,39,0,2,1,9.75,24,1
+Lahore Qalandars vs Islamabad United,Lahore Qalandars,m_01,Haris Rauf,3,0,0,38,0,0,0,12.67,18,1
+Lahore Qalandars vs Islamabad United,Lahore Qalandars,m_01,Salman Fayyaz,2,2,0,23,1,0,0,10.45,14,1
+Lahore Qalandars vs Islamabad United,Lahore Qalandars,m_01,David Wiese,2,0,0,24,0,0,0,12,12,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_02,Luke Wood,4,0,0,39,1,0,1,9.75,24,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_02,Mohammad Zeeshan,4,0,0,38,1,1,0,9.5,24,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_02,Aamir Jamal,2,0,0,29,0,4,0,14.5,12,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_02,Salman Irshad,4,0,0,38,3,1,0,9.5,24,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_02,Daniel Mousley,3,0,0,22,0,0,0,7.33,18,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_02,Saim Ayub,3,0,0,34,0,0,0,11.33,18,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_02,Mohammad Amir,4,0,1,29,1,2,0,7.25,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_02,Akeal Hosein,4,0,0,38,1,2,0,9.5,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_02,Mohammad Hasnain,4,0,0,41,0,1,0,10.25,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_02,Mohammad Wasim Jnr,4,0,0,49,1,3,0,12.25,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_02,Abrar Ahmed,4,0,0,29,2,1,0,7.25,24,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Mir Hamza,4,0,0,30,1,2,0,7.5,24,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Mohammad Amir Khan,1,0,0,7,0,0,0,7,6,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Daniel Sams,4,0,0,37,1,4,0,9.25,24,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Shoaib Malik,2,0,0,10,0,1,0,5,12,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Hasan Ali,4,0,0,38,0,1,0,9.5,24,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Tabraiz Shamsi,4,0,0,45,0,0,0,11.25,24,1
+Multan Sultans vs Karachi Kings,Karachi Kings,m_03,Mohammad Nawaz,1,0,0,11,0,0,0,11,6,1
+Multan Sultans vs Karachi Kings,Multan Sultans,m_03,David Willey,4,0,0,22,2,2,0,5.5,24,1
+Multan Sultans vs Karachi Kings,Multan Sultans,m_03,Mohammad Ali,4,0,0,23,3,0,0,5.75,24,1
+Multan Sultans vs Karachi Kings,Multan Sultans,m_03,Shahnawaz Dahani,3,0,1,30,0,1,0,10,18,1
+Multan Sultans vs Karachi Kings,Multan Sultans,m_03,Mohammad Abbas Afridi,3,0,0,16,2,1,0,5.33,18,1
+Multan Sultans vs Karachi Kings,Multan Sultans,m_03,Usama Mir,4,0,0,14,1,0,0,3.5,24,1
+Multan Sultans vs Karachi Kings,Multan Sultans,m_03,Iftikhar Ahmed,2,0,0,23,0,1,0,11.5,12,1
+Lahore Qalandars vs Quetta Gladiators,Quetta Gladiators,m_04,Akeal Hosein,4,0,0,17,2,0,0,4.25,24,1
+Lahore Qalandars vs Quetta Gladiators,Quetta Gladiators,m_04,Mohammad Amir,4,0,0,33,1,2,0,8.25,24,1
+Lahore Qalandars vs Quetta Gladiators,Quetta Gladiators,m_04,Mohammad Wasim Jnr,4,0,0,42,1,0,0,10.5,24,1
+Lahore Qalandars vs Quetta Gladiators,Quetta Gladiators,m_04,Abrar Ahmed,4,0,0,40,1,1,0,10,24,1
+Lahore Qalandars vs Quetta Gladiators,Quetta Gladiators,m_04,Mohammad Hasnain,4,0,0,50,2,1,0,12.5,24,1
+Lahore Qalandars vs Quetta Gladiators,Lahore Qalandars,m_04,Shaheen Shah Afridi *,4,0,0,38,1,2,0,9.5,24,1
+Lahore Qalandars vs Quetta Gladiators,Lahore Qalandars,m_04,Haris Rauf,4,0,0,47,1,3,0,11.75,24,1
+Lahore Qalandars vs Quetta Gladiators,Lahore Qalandars,m_04,Zaman Khan,3,1,0,27,1,3,0,8.71,19,1
+Lahore Qalandars vs Quetta Gladiators,Lahore Qalandars,m_04,Jahandad Khan,2,0,0,22,0,0,0,11,12,1
+Lahore Qalandars vs Quetta Gladiators,Lahore Qalandars,m_04,Salman Fayyaz,3,0,0,27,1,1,0,9,18,1
+Lahore Qalandars vs Quetta Gladiators,Lahore Qalandars,m_04,Sikandar Raza,3,0,0,25,1,1,0,8.33,18,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_05,David Willey,4,0,0,26,1,0,0,6.5,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_05,Mohammad Ali,4,0,0,19,3,0,2,4.75,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_05,Olly Stone,3,4,0,28,0,2,0,8.24,22,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_05,Mohammad Abbas Afridi,4,0,0,33,3,1,1,8.25,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_05,Usama Mir,4,0,0,29,2,0,0,7.25,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_05,Khushdil Shah,0,2,0,1,0,0,0,5,2,1
+Multan Sultans vs Islamabad United,Islamabad United,m_05,Naseem Shah,4,0,0,27,2,3,0,6.75,24,1
+Multan Sultans vs Islamabad United,Islamabad United,m_05,Faheem Ashraf,2,0,0,15,0,2,0,7.5,12,1
+Multan Sultans vs Islamabad United,Islamabad United,m_05,Ubaid Shah,2,0,0,15,0,0,0,7.5,12,1
+Multan Sultans vs Islamabad United,Islamabad United,m_05,Imad Wasim,4,0,0,22,1,0,0,5.5,24,1
+Multan Sultans vs Islamabad United,Islamabad United,m_05,Tymal Mills,3,5,0,31,1,2,0,8.86,23,1
+Multan Sultans vs Islamabad United,Islamabad United,m_05,Shadab Khan *,4,0,0,35,1,0,0,8.75,24,1
+Peshawar Zalmi vs Karachi Kings,Karachi Kings,m_06,Shoaib Malik,1,0,0,3,1,1,0,3,6,1
+Peshawar Zalmi vs Karachi Kings,Karachi Kings,m_06,Mir Hamza,4,0,0,28,3,0,0,7,24,1
+Peshawar Zalmi vs Karachi Kings,Karachi Kings,m_06,Mohammad Nawaz,3,0,0,29,1,0,0,9.67,18,1
+Peshawar Zalmi vs Karachi Kings,Karachi Kings,m_06,Daniel Sams,4,0,0,28,2,1,0,7,24,1
+Peshawar Zalmi vs Karachi Kings,Karachi Kings,m_06,Hasan Ali,3,5,0,30,3,0,0,8.57,23,1
+Peshawar Zalmi vs Karachi Kings,Karachi Kings,m_06,Tabraiz Shamsi,4,0,0,36,0,1,0,9,24,1
+Peshawar Zalmi vs Karachi Kings,Peshawar Zalmi,m_06,Luke Wood,3,5,1,20,2,0,0,5.71,23,1
+Peshawar Zalmi vs Karachi Kings,Peshawar Zalmi,m_06,Mohammad Zeeshan,4,0,0,48,0,2,2,12,24,1
+Peshawar Zalmi vs Karachi Kings,Peshawar Zalmi,m_06,Salman Irshad,3,0,0,22,0,0,0,7.33,18,1
+Peshawar Zalmi vs Karachi Kings,Peshawar Zalmi,m_06,Aamir Jamal,2,0,0,13,0,1,0,6.5,12,1
+Peshawar Zalmi vs Karachi Kings,Peshawar Zalmi,m_06,Waqar Salamkheil,4,0,0,54,1,0,0,13.5,24,1
+Multan Sultans vs Lahore Qalandars,Multan Sultans,m_07,David Willey,3,0,0,27,0,1,0,9,18,1
+Multan Sultans vs Lahore Qalandars,Multan Sultans,m_07,Mohammad Ali,4,0,0,28,2,4,0,7,24,1
+Multan Sultans vs Lahore Qalandars,Multan Sultans,m_07,Shahnawaz Dahani,2,0,0,24,0,1,1,12,12,1
+Multan Sultans vs Lahore Qalandars,Multan Sultans,m_07,Mohammad Abbas Afridi,4,0,0,34,1,0,0,8.5,24,1
+Multan Sultans vs Lahore Qalandars,Multan Sultans,m_07,Usama Mir,4,0,0,25,1,0,0,6.25,24,1
+Multan Sultans vs Lahore Qalandars,Multan Sultans,m_07,Iftikhar Ahmed,3,0,0,26,0,0,0,8.67,18,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,Shaheen Shah Afridi *,4,0,1,25,2,0,0,6.25,24,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,Zaman Khan,4,0,1,52,2,3,0,13,24,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,Haris Rauf,3,0,0,25,0,2,0,8.33,18,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,Jahandad Khan,1,0,0,10,0,0,0,10,6,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,George Linde,4,0,0,26,1,2,0,6.5,24,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,Carlos Brathwaite,1,0,0,7,0,2,0,7,6,1
+Multan Sultans vs Lahore Qalandars,Lahore Qalandars,m_07,Sikandar Raza,2,0,0,24,0,1,0,12,12,1
+Quetta Gladiators vs Islamabad United,Quetta Gladiators,m_08,Akeal Hosein,4,0,0,32,2,0,0,8,24,1
+Quetta Gladiators vs Islamabad United,Quetta Gladiators,m_08,Mohammad Amir,4,0,0,30,0,3,0,7.5,24,1
+Quetta Gladiators vs Islamabad United,Quetta Gladiators,m_08,Abrar Ahmed,4,0,0,18,3,0,0,4.5,24,1
+Quetta Gladiators vs Islamabad United,Quetta Gladiators,m_08,Mohammad Hasnain,4,0,0,35,1,1,0,8.75,24,1
+Quetta Gladiators vs Islamabad United,Quetta Gladiators,m_08,Mohammad Wasim Jnr,4,0,0,20,3,0,0,5,24,1
+Quetta Gladiators vs Islamabad United,Islamabad United,m_08,Naseem Shah,4,0,0,34,2,1,0,8.5,24,1
+Quetta Gladiators vs Islamabad United,Islamabad United,m_08,Imad Wasim,2,0,0,23,0,1,0,11.5,12,1
+Quetta Gladiators vs Islamabad United,Islamabad United,m_08,Rumman Raees,2,2,0,14,1,1,0,6.36,14,1
+Quetta Gladiators vs Islamabad United,Islamabad United,m_08,Hunain Shah,2,0,0,13,1,0,0,6.5,12,1
+Quetta Gladiators vs Islamabad United,Islamabad United,m_08,Shadab Khan *,4,0,0,24,2,0,0,6,24,1
+Quetta Gladiators vs Islamabad United,Islamabad United,m_08,Salman Ali Agha,4,0,0,28,0,0,0,7,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_09,David Willey,4,0,0,28,2,5,0,7,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_09,Mohammad Ali,4,0,0,23,2,0,0,5.75,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_09,Shahnawaz Dahani,3,0,0,26,1,1,0,8.67,18,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_09,Mohammad Abbas Afridi,4,0,0,48,1,1,0,12,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_09,Usama Mir,4,0,0,36,2,1,0,9,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_09,Iftikhar Ahmed,1,0,0,17,0,0,0,17,6,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_09,Luke Wood,4,0,0,13,2,0,0,3.25,24,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_09,Naveen-ul-Haq,4,0,0,44,2,2,0,11,24,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_09,Paul Walter,4,0,0,35,1,1,0,8.75,24,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_09,Arif Yaqoob,4,0,0,43,3,0,0,10.75,24,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_09,Salman Irshad,4,0,0,39,2,3,0,9.75,24,1
+Lahore Qalandars vs Karachi Kings,Karachi Kings,m_10,Mir Hamza,4,0,0,31,2,0,0,7.75,24,1
+Lahore Qalandars vs Karachi Kings,Karachi Kings,m_10,Shoaib Malik,1,0,0,4,0,0,0,4,6,1
+Lahore Qalandars vs Karachi Kings,Karachi Kings,m_10,Mohammad Nawaz,3,0,0,16,0,1,0,5.33,18,1
+Lahore Qalandars vs Karachi Kings,Karachi Kings,m_10,Hasan Ali,4,0,0,29,2,0,0,7.25,24,1
+Lahore Qalandars vs Karachi Kings,Karachi Kings,m_10,Daniel Sams,4,0,0,52,0,0,0,13,24,1
+Lahore Qalandars vs Karachi Kings,Karachi Kings,m_10,Tabraiz Shamsi,4,0,0,42,2,1,1,10.5,24,1
+Lahore Qalandars vs Karachi Kings,Lahore Qalandars,m_10,Shaheen Shah Afridi *,4,0,0,34,1,1,0,8.5,24,1
+Lahore Qalandars vs Karachi Kings,Lahore Qalandars,m_10,Zaman Khan,4,0,0,25,2,1,0,6.25,24,1
+Lahore Qalandars vs Karachi Kings,Lahore Qalandars,m_10,Ahsan Hafeez Bhatti,2,0,0,19,2,0,0,9.5,12,1
+Lahore Qalandars vs Karachi Kings,Lahore Qalandars,m_10,Jahandad Khan,4,0,0,44,1,0,0,11,24,1
+Lahore Qalandars vs Karachi Kings,Lahore Qalandars,m_10,George Linde,2,0,0,25,0,0,0,12.5,12,1
+Lahore Qalandars vs Karachi Kings,Lahore Qalandars,m_10,Haris Rauf,4,0,0,22,1,1,0,5.5,24,1
+Multan Sultans vs Quetta Gladiators,Quetta Gladiators,m_11,Akeal Hosein,4,0,0,30,1,2,0,7.5,24,1
+Multan Sultans vs Quetta Gladiators,Quetta Gladiators,m_11,Mohammad Amir,4,0,0,46,2,4,0,11.5,24,1
+Multan Sultans vs Quetta Gladiators,Quetta Gladiators,m_11,Abrar Ahmed,4,0,0,35,1,0,0,8.75,24,1
+Multan Sultans vs Quetta Gladiators,Quetta Gladiators,m_11,Usman Tariq,4,0,0,27,0,0,0,6.75,24,1
+Multan Sultans vs Quetta Gladiators,Quetta Gladiators,m_11,Mohammad Wasim Jnr,4,0,0,41,0,0,0,10.25,24,1
+Multan Sultans vs Quetta Gladiators,Multan Sultans,m_11,Mohammad Ali,4,0,1,19,3,0,0,4.75,24,1
+Multan Sultans vs Quetta Gladiators,Multan Sultans,m_11,David Willey,4,0,0,37,3,2,0,9.25,24,1
+Multan Sultans vs Quetta Gladiators,Multan Sultans,m_11,Mohammad Abbas Afridi,4,0,0,33,0,1,2,8.25,24,1
+Multan Sultans vs Quetta Gladiators,Multan Sultans,m_11,Usama Mir,4,0,0,34,1,0,0,8.5,24,1
+Multan Sultans vs Quetta Gladiators,Multan Sultans,m_11,Aftab Ibrahim,3,0,0,26,2,0,0,8.67,18,1
+Multan Sultans vs Quetta Gladiators,Multan Sultans,m_11,Iftikhar Ahmed,1,0,0,15,0,0,0,15,6,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Shaheen Shah Afridi *,4,0,0,33,3,1,0,8.25,24,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Zaman Khan,4,0,0,48,0,4,0,12,24,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Ahsan Hafeez Bhatti,1,0,0,11,0,0,0,11,6,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Mohammad Imran Jnr,3,0,0,41,0,0,0,13.67,18,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Sikandar Raza,2,0,0,20,0,0,0,10,12,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Carlos Brathwaite,4,0,0,34,0,1,0,8.5,24,1
+Lahore Qalandars vs Peshawar Zalmi,Lahore Qalandars,m_12,Jahandad Khan,2,0,0,22,1,1,0,11,12,1
+Lahore Qalandars vs Peshawar Zalmi,Peshawar Zalmi,m_12,Saim Ayub,1,0,0,3,0,0,0,3,6,1
+Lahore Qalandars vs Peshawar Zalmi,Peshawar Zalmi,m_12,Luke Wood,4,0,0,46,1,1,0,11.5,24,1
+Lahore Qalandars vs Peshawar Zalmi,Peshawar Zalmi,m_12,Naveen-ul-Haq,4,0,0,50,2,4,0,12.5,24,1
+Lahore Qalandars vs Peshawar Zalmi,Peshawar Zalmi,m_12,Paul Walter,4,0,0,41,1,1,0,10.25,24,1
+Lahore Qalandars vs Peshawar Zalmi,Peshawar Zalmi,m_12,Arif Yaqoob,3,0,0,21,0,0,0,7,18,1
+Lahore Qalandars vs Peshawar Zalmi,Peshawar Zalmi,m_12,Salman Irshad,4,0,0,39,1,2,0,9.75,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Naseem Shah,4,0,0,32,1,0,0,8,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Salman Ali Agha,4,0,0,25,1,0,0,6.25,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Imad Wasim,1,0,0,17,0,0,0,17,6,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Tymal Mills,2,0,0,30,0,1,0,15,12,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Shadab Khan *,4,0,0,28,2,0,0,7,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Hunain Shah,3,0,0,36,0,1,0,12,18,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_13,Faheem Ashraf,2,0,0,29,0,0,0,14.5,12,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_13,Saim Ayub,3,0,0,24,1,0,0,8,18,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_13,Luke Wood,4,0,0,37,1,0,0,9.25,24,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_13,Naveen-ul-Haq,4,0,0,41,1,0,0,10.25,24,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_13,Arif Yaqoob,4,0,0,27,5,0,0,6.75,24,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_13,Paul Walter,1,0,0,9,0,0,0,9,6,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_13,Salman Irshad,4,0,0,52,1,0,0,13,24,1
+Lahore Qalandars vs Multan Sultans,Lahore Qalandars,m_14,Shaheen Shah Afridi *,4,0,1,39,2,3,0,9.75,24,1
+Lahore Qalandars vs Multan Sultans,Lahore Qalandars,m_14,Zaman Khan,4,0,0,43,0,3,1,10.75,24,1
+Lahore Qalandars vs Multan Sultans,Lahore Qalandars,m_14,George Linde,2,0,0,25,0,0,0,12.5,12,1
+Lahore Qalandars vs Multan Sultans,Lahore Qalandars,m_14,Carlos Brathwaite,4,0,0,36,1,0,0,9,24,1
+Lahore Qalandars vs Multan Sultans,Lahore Qalandars,m_14,Sikandar Raza,2,0,0,20,1,0,0,10,12,1
+Lahore Qalandars vs Multan Sultans,Lahore Qalandars,m_14,Salman Fayyaz,1,0,0,11,0,1,0,11,6,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Jahandad Khan,3,0,0,35,0,0,0,11.67,18,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Khushdil Shah,4,0,0,31,1,0,0,7.75,24,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Mohammad Ali,3,0,0,32,0,0,0,10.67,18,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Shahnawaz Dahani,1,0,0,17,0,0,0,17,6,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Aftab Ibrahim,1,0,0,5,1,0,0,5,6,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Faisal Akram,4,0,0,25,2,0,0,6.25,24,1
+Lahore Qalandars vs Multan Sultans,Multan Sultans,m_14,Usama Mir,4,0,0,40,6,0,0,10,24,1
+Karachi Kings vs Islamabad United,Islamabad United,m_15,Imad Wasim,4,0,0,20,1,0,0,5,24,1
+Karachi Kings vs Islamabad United,Islamabad United,m_15,Naseem Shah,4,0,0,29,1,2,0,7.25,24,1
+Karachi Kings vs Islamabad United,Islamabad United,m_15,Rumman Raees,4,0,0,45,0,2,0,11.25,24,1
+Karachi Kings vs Islamabad United,Islamabad United,m_15,Salman Ali Agha,2,0,0,17,1,1,0,8.5,12,1
+Karachi Kings vs Islamabad United,Islamabad United,m_15,Shadab Khan *,3,0,0,18,0,0,0,6,18,1
+Karachi Kings vs Islamabad United,Islamabad United,m_15,Hunain Shah,3,0,0,30,1,1,2,10,18,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Mir Hamza,2,0,0,25,0,0,0,12.5,12,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Shoaib Malik,4,0,0,31,0,0,0,7.75,24,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Hasan Ali,3,3,0,42,1,0,0,12.73,21,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Mohammad Amir Khan,1,0,0,10,0,0,0,10,6,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Tabraiz Shamsi,3,0,0,34,1,1,1,11.33,18,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Mohammad Nawaz,4,0,0,23,1,0,0,5.75,24,1
+Karachi Kings vs Islamabad United,Karachi Kings,m_15,Leus du Plooy,1,0,0,2,0,0,0,2,6,1
+Karachi Kings vs Quetta Gladiators,Quetta Gladiators,m_16,Akeal Hosein,4,0,0,34,2,0,0,8.5,24,1
+Karachi Kings vs Quetta Gladiators,Quetta Gladiators,m_16,Sohail Khan,4,0,0,36,0,0,0,9,24,1
+Karachi Kings vs Quetta Gladiators,Quetta Gladiators,m_16,Abrar Ahmed,4,0,0,31,3,0,0,7.75,24,1
+Karachi Kings vs Quetta Gladiators,Quetta Gladiators,m_16,Mohammad Wasim Jnr,4,0,0,46,1,1,0,11.5,24,1
+Karachi Kings vs Quetta Gladiators,Quetta Gladiators,m_16,Usman Tariq,4,0,0,16,2,4,0,4,24,1
+Karachi Kings vs Quetta Gladiators,Karachi Kings,m_16,Mohammad Nawaz,3,0,0,36,0,0,0,12,18,1
+Karachi Kings vs Quetta Gladiators,Karachi Kings,m_16,Blessing Muzarabani,4,0,0,30,0,0,0,7.5,24,1
+Karachi Kings vs Quetta Gladiators,Karachi Kings,m_16,Anwar Ali,2,0,0,28,0,1,0,14,12,1
+Karachi Kings vs Quetta Gladiators,Karachi Kings,m_16,Hasan Ali,4,0,0,39,2,0,1,9.75,24,1
+Karachi Kings vs Quetta Gladiators,Karachi Kings,m_16,Zahid Mehmood,4,0,0,17,2,0,0,4.25,24,1
+Karachi Kings vs Quetta Gladiators,Karachi Kings,m_16,Shoaib Malik,3,0,0,19,1,0,0,6.33,18,1
+Karachi Kings vs Multan Sultans,Karachi Kings,m_19,Mir Hamza,4,0,0,43,0,0,0,10.75,24,1
+Karachi Kings vs Multan Sultans,Karachi Kings,m_19,Blessing Muzarabani,4,0,0,32,2,0,0,8,24,1
+Karachi Kings vs Multan Sultans,Karachi Kings,m_19,Mohammad Nawaz,3,0,0,37,0,1,0,12.33,18,1
+Karachi Kings vs Multan Sultans,Karachi Kings,m_19,Hasan Ali,4,0,0,34,1,0,0,8.5,24,1
+Karachi Kings vs Multan Sultans,Karachi Kings,m_19,Zahid Mehmood,4,0,0,34,0,0,0,8.5,24,1
+Karachi Kings vs Multan Sultans,Karachi Kings,m_19,Shoaib Malik,1,0,0,8,0,0,0,8,6,1
+Karachi Kings vs Multan Sultans,Multan Sultans,m_19,David Willey,4,0,0,32,1,0,0,8,24,1
+Karachi Kings vs Multan Sultans,Multan Sultans,m_19,Mohammad Ali,4,0,0,40,1,0,1,10,24,1
+Karachi Kings vs Multan Sultans,Multan Sultans,m_19,Chris Jordan,4,0,0,34,1,1,0,8.5,24,1
+Karachi Kings vs Multan Sultans,Multan Sultans,m_19,Usama Mir,4,0,0,29,2,0,0,7.25,24,1
+Karachi Kings vs Multan Sultans,Multan Sultans,m_19,Khushdil Shah,3,0,0,16,1,0,0,5.33,18,1
+Karachi Kings vs Multan Sultans,Multan Sultans,m_19,Faisal Akram,1,0,0,16,0,0,0,16,6,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Saim Ayub,2,0,0,15,2,1,0,7.5,12,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Luke Wood,4,0,0,34,1,0,0,8.5,24,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Mohammad Zeeshan,3,0,0,26,0,0,0,8.67,18,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Aamir Jamal,3,0,0,35,0,1,0,11.67,18,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Arif Yaqoob,3,0,0,32,0,0,0,10.67,18,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Paul Walter,1,0,0,10,0,0,0,10,6,1
+Islamabad United vs Peshawar Zalmi,Peshawar Zalmi,m_20,Salman Irshad,4,0,0,37,1,0,0,9.25,24,1
+Islamabad United vs Peshawar Zalmi,Islamabad United,m_20,Naseem Shah,4,0,1,26,1,1,0,6.5,24,1
+Islamabad United vs Peshawar Zalmi,Islamabad United,m_20,Rumman Raees,4,0,0,28,2,2,0,7,24,1
+Islamabad United vs Peshawar Zalmi,Islamabad United,m_20,Faheem Ashraf,3,0,0,31,0,1,0,10.33,18,1
+Islamabad United vs Peshawar Zalmi,Islamabad United,m_20,Hunain Shah,4,0,1,25,2,1,0,6.25,24,1
+Islamabad United vs Peshawar Zalmi,Islamabad United,m_20,Shadab Khan *,4,0,0,41,3,1,0,10.25,24,1
+Islamabad United vs Peshawar Zalmi,Islamabad United,m_20,Imad Wasim,1,0,0,7,0,0,0,7,6,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,Mohammad Ali,3,0,0,46,0,2,0,15.33,18,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,David Willey,4,0,0,36,0,3,0,9,24,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,Iftikhar Ahmed,1,0,0,12,0,1,0,12,6,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,Khushdil Shah,1,0,0,13,0,0,0,13,6,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,Chris Jordan,4,0,0,33,2,2,0,8.25,24,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,Usama Mir,4,0,0,32,3,1,0,8,24,1
+Peshawar Zalmi vs Multan Sultans,Multan Sultans,m_21,Aftab Ibrahim,3,0,0,30,0,0,1,10,18,1
+Peshawar Zalmi vs Multan Sultans,Peshawar Zalmi,m_21,Saim Ayub,1,0,0,14,0,1,0,14,6,1
+Peshawar Zalmi vs Multan Sultans,Peshawar Zalmi,m_21,Luke Wood,4,0,0,44,0,0,0,11,24,1
+Peshawar Zalmi vs Multan Sultans,Peshawar Zalmi,m_21,Mehran Mumtaz,4,0,0,20,1,0,0,5,24,1
+Peshawar Zalmi vs Multan Sultans,Peshawar Zalmi,m_21,Naveen-ul-Haq,4,0,0,32,1,2,0,8,24,1
+Peshawar Zalmi vs Multan Sultans,Peshawar Zalmi,m_21,Aamir Jamal,4,0,0,36,2,2,0,9,24,1
+Peshawar Zalmi vs Multan Sultans,Peshawar Zalmi,m_21,Salman Irshad,3,0,0,46,0,3,0,15.33,18,1
+Quetta Gladiators vs Karachi Kings,Karachi Kings,m_22,Shoaib Malik,4,0,0,24,0,0,0,6,24,1
+Quetta Gladiators vs Karachi Kings,Karachi Kings,m_22,Mir Hamza,3,1,0,25,1,1,0,8.06,19,1
+Quetta Gladiators vs Karachi Kings,Karachi Kings,m_22,Blessing Muzarabani,4,0,0,27,2,1,0,6.75,24,1
+Quetta Gladiators vs Karachi Kings,Karachi Kings,m_22,Hasan Ali,4,0,0,15,4,0,0,3.75,24,1
+Quetta Gladiators vs Karachi Kings,Karachi Kings,m_22,Zahid Mehmood,4,0,0,25,2,0,0,6.25,24,1
+Quetta Gladiators vs Karachi Kings,Quetta Gladiators,m_22,Akeal Hosein,4,0,0,24,1,0,0,6,24,1
+Quetta Gladiators vs Karachi Kings,Quetta Gladiators,m_22,Mohammad Amir,2,0,0,23,1,0,0,11.5,12,1
+Quetta Gladiators vs Karachi Kings,Quetta Gladiators,m_22,Abrar Ahmed,4,0,0,24,1,1,0,6,24,1
+Quetta Gladiators vs Karachi Kings,Quetta Gladiators,m_22,Usman Tariq,3,3,0,23,0,2,0,6.97,21,1
+Quetta Gladiators vs Karachi Kings,Quetta Gladiators,m_22,Mohammad Hasnain,2,0,0,24,0,1,0,12,12,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Naseem Shah,4,0,1,30,1,1,0,7.5,24,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Rumman Raees,3,0,0,19,2,2,0,6.33,18,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Hunain Shah,3,0,0,24,1,1,0,8,18,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Imad Wasim,3,0,0,24,1,1,0,8,18,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Salman Ali Agha,1,0,0,14,0,0,0,14,6,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Faheem Ashraf,3,0,0,28,1,1,0,9.33,18,1
+Islamabad United vs Lahore Qalandars,Islamabad United,m_23,Shadab Khan *,3,0,0,23,1,1,0,7.67,18,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,Shaheen Shah Afridi *,4,0,0,32,2,0,0,8,24,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,Zaman Khan,3,5,0,37,4,3,0,10.57,23,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,David Wiese,4,0,0,19,1,0,0,4.75,24,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,Jahandad Khan,2,0,0,15,1,0,1,7.5,12,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,Tayyab Abbas,2,0,0,15,0,1,0,7.5,12,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,Ahsan Hafeez Bhatti,2,0,0,20,1,0,0,10,12,1
+Islamabad United vs Lahore Qalandars,Lahore Qalandars,m_23,Sikandar Raza,1,0,0,7,0,1,0,7,6,1
+Islamabad United vs Karachi Kings,Islamabad United,m_24,Matthew Forde,2,0,0,18,0,0,0,9,12,1
+Islamabad United vs Karachi Kings,Islamabad United,m_24,Hunain Shah,4,0,0,36,1,4,0,9,24,1
+Islamabad United vs Karachi Kings,Islamabad United,m_24,Imad Wasim,4,0,0,18,1,0,0,4.5,24,1
+Islamabad United vs Karachi Kings,Islamabad United,m_24,Faheem Ashraf,4,0,0,16,2,0,0,4,24,1
+Islamabad United vs Karachi Kings,Islamabad United,m_24,Tymal Mills,4,0,0,34,3,2,0,8.5,24,1
+Islamabad United vs Karachi Kings,Islamabad United,m_24,Shadab Khan *,2,0,0,22,0,0,0,11,12,1
+Islamabad United vs Karachi Kings,Karachi Kings,m_24,Mir Hamza,4,0,0,41,3,3,0,10.25,24,1
+Islamabad United vs Karachi Kings,Karachi Kings,m_24,Blessing Muzarabani,4,0,0,24,1,0,0,6,24,1
+Islamabad United vs Karachi Kings,Karachi Kings,m_24,Hasan Ali,3,4,0,31,0,0,0,9.12,22,1
+Islamabad United vs Karachi Kings,Karachi Kings,m_24,Zahid Mehmood,4,0,0,30,1,1,0,7.5,24,1
+Islamabad United vs Karachi Kings,Karachi Kings,m_24,Mohammad Nawaz,3,0,0,24,0,0,0,8,18,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_25,Mohammad Amir,4,0,0,35,0,4,0,8.75,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_25,Sohail Khan,4,0,0,48,1,1,0,12,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_25,Mohammad Hasnain,4,0,0,52,1,2,0,13,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_25,Abrar Ahmed,4,0,0,34,1,0,0,8.5,24,1
+Peshawar Zalmi vs Quetta Gladiators,Quetta Gladiators,m_25,Akeal Hosein,4,0,0,23,4,0,0,5.75,24,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_25,Saim Ayub,3,0,0,20,2,1,0,6.67,18,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_25,Luke Wood,3,0,0,21,2,1,0,7,18,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_25,Khurram Shahzad,2,5,0,15,2,0,0,6,17,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_25,Naveen-ul-Haq,2,0,0,25,1,0,0,12.5,12,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_25,Mehran Mumtaz,4,0,0,22,2,0,0,5.5,24,1
+Peshawar Zalmi vs Quetta Gladiators,Peshawar Zalmi,m_25,Aamir Jamal,3,0,0,15,1,1,0,5,18,1
+Karachi Kings vs Lahore Qalandars,Karachi Kings,m_26,Shoaib Malik,3,0,0,28,0,0,0,9.33,18,1
+Karachi Kings vs Lahore Qalandars,Karachi Kings,m_26,Blessing Muzarabani,4,0,0,40,1,0,0,10,24,1
+Karachi Kings vs Lahore Qalandars,Karachi Kings,m_26,Anwar Ali,4,0,0,36,1,1,0,9,24,1
+Karachi Kings vs Lahore Qalandars,Karachi Kings,m_26,Hasan Ali,4,0,0,30,0,0,0,7.5,24,1
+Karachi Kings vs Lahore Qalandars,Karachi Kings,m_26,Zahid Mehmood,4,0,0,27,2,1,0,6.75,24,1
+Karachi Kings vs Lahore Qalandars,Karachi Kings,m_26,Kieron Pollard,1,0,0,11,0,1,0,11,6,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,Shaheen Shah Afridi *,4,0,0,37,1,0,0,9.25,24,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,Ahsan Hafeez Bhatti,1,0,0,17,0,0,0,17,6,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,Zaman Khan,4,0,0,41,1,3,0,10.25,24,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,Jahandad Khan,1,0,0,9,0,0,0,9,6,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,Tayyab Abbas,3,0,0,23,2,2,0,7.67,18,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,Sikandar Raza,4,0,0,23,1,1,0,5.75,24,1
+Karachi Kings vs Lahore Qalandars,Lahore Qalandars,m_26,David Wiese,3,0,0,28,0,0,0,9.33,18,1
+Islamabad United vs Multan Sultans,Islamabad United,m_27,Naseem Shah,4,0,0,31,1,2,0,7.75,24,1
+Islamabad United vs Multan Sultans,Islamabad United,m_27,Imad Wasim,3,0,0,29,0,0,0,9.67,18,1
+Islamabad United vs Multan Sultans,Islamabad United,m_27,Faheem Ashraf,3,0,0,32,2,0,0,10.67,18,1
+Islamabad United vs Multan Sultans,Islamabad United,m_27,Hunain Shah,2,0,0,29,1,0,0,14.5,12,1
+Islamabad United vs Multan Sultans,Islamabad United,m_27,Tymal Mills,4,0,0,52,0,0,0,13,24,1
+Islamabad United vs Multan Sultans,Islamabad United,m_27,Shadab Khan *,4,0,0,52,0,0,0,13,24,1
+Islamabad United vs Multan Sultans,Multan Sultans,m_27,David Willey,4,0,0,30,1,1,0,7.5,24,1
+Islamabad United vs Multan Sultans,Multan Sultans,m_27,Mohammad Ali,4,0,0,44,2,3,0,11,24,1
+Islamabad United vs Multan Sultans,Multan Sultans,m_27,Chris Jordan,4,0,0,42,1,1,0,10.5,24,1
+Islamabad United vs Multan Sultans,Multan Sultans,m_27,Usama Mir,4,0,0,68,0,0,0,17,24,1
+Islamabad United vs Multan Sultans,Multan Sultans,m_27,Mohammad Abbas Afridi,4,0,0,40,3,1,0,10,24,1
+Quetta Gladiators vs Lahore Qalandars,Quetta Gladiators,m_28,Mohammad Amir,4,0,0,30,1,1,0,7.5,24,1
+Quetta Gladiators vs Lahore Qalandars,Quetta Gladiators,m_28,Sohail Khan,4,0,0,25,0,0,0,6.25,24,1
+Quetta Gladiators vs Lahore Qalandars,Quetta Gladiators,m_28,Akeal Hosein,4,0,0,50,0,1,0,12.5,24,1
+Quetta Gladiators vs Lahore Qalandars,Quetta Gladiators,m_28,Abrar Ahmed,4,0,0,31,2,0,0,7.75,24,1
+Quetta Gladiators vs Lahore Qalandars,Quetta Gladiators,m_28,Mohammad Wasim Jnr,4,0,0,28,1,0,0,7,24,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,Shaheen Shah Afridi *,4,0,0,41,2,1,0,10.25,24,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,Zaman Khan,2,0,0,10,0,0,0,5,12,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,David Wiese,1,0,0,8,0,0,0,8,6,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,Jahandad Khan,4,0,0,30,2,1,0,7.5,24,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,Tayyab Abbas,1,0,0,14,0,2,0,14,6,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,Sikandar Raza,4,0,0,32,0,1,0,8,24,1
+Quetta Gladiators vs Lahore Qalandars,Lahore Qalandars,m_28,George Linde,4,0,0,30,0,1,0,7.5,24,1
+Karachi Kings vs Peshawar Zalmi,Karachi Kings,m_29,Daniel Sams,4,0,0,37,1,3,0,9.25,24,1
+Karachi Kings vs Peshawar Zalmi,Karachi Kings,m_29,Shoaib Malik,4,0,0,20,0,3,0,5,24,1
+Karachi Kings vs Peshawar Zalmi,Karachi Kings,m_29,Anwar Ali,1,0,0,14,0,1,0,14,6,1
+Karachi Kings vs Peshawar Zalmi,Karachi Kings,m_29,Zahid Mehmood,4,0,0,34,1,0,0,8.5,24,1
+Karachi Kings vs Peshawar Zalmi,Karachi Kings,m_29,Arafat Minhas,4,0,0,11,1,0,0,2.75,24,1
+Karachi Kings vs Peshawar Zalmi,Karachi Kings,m_29,Hasan Ali,3,0,0,26,1,0,0,8.67,18,1
+Karachi Kings vs Peshawar Zalmi,Peshawar Zalmi,m_29,Luke Wood,4,0,0,24,1,0,0,6,24,1
+Karachi Kings vs Peshawar Zalmi,Peshawar Zalmi,m_29,Mehran Mumtaz,3,0,0,25,0,1,0,8.33,18,1
+Karachi Kings vs Peshawar Zalmi,Peshawar Zalmi,m_29,Naveen-ul-Haq,4,0,1,22,2,0,0,5.5,24,1
+Karachi Kings vs Peshawar Zalmi,Peshawar Zalmi,m_29,Aimal Khan,1,0,0,13,0,0,0,13,6,1
+Karachi Kings vs Peshawar Zalmi,Peshawar Zalmi,m_29,Aamir Jamal,4,0,0,38,1,0,0,9.5,24,1
+Karachi Kings vs Peshawar Zalmi,Peshawar Zalmi,m_29,Saim Ayub,4,0,0,18,1,0,0,4.5,24,1
+Quetta Gladiators vs Multan Sultans,Quetta Gladiators,m_30,Mohammad Amir,4,0,0,40,2,4,0,10,24,1
+Quetta Gladiators vs Multan Sultans,Quetta Gladiators,m_30,Akeal Hosein,4,0,0,26,0,0,0,6.5,24,1
+Quetta Gladiators vs Multan Sultans,Quetta Gladiators,m_30,Abrar Ahmed,4,0,0,39,1,0,0,9.75,24,1
+Quetta Gladiators vs Multan Sultans,Quetta Gladiators,m_30,Usman Tariq,4,0,0,38,0,1,0,9.5,24,1
+Quetta Gladiators vs Multan Sultans,Quetta Gladiators,m_30,Mohammad Wasim Jnr,3,0,0,31,1,0,0,10.33,18,1
+Quetta Gladiators vs Multan Sultans,Quetta Gladiators,m_30,Saud Shakeel,1,0,0,10,0,0,0,10,6,1
+Quetta Gladiators vs Multan Sultans,Multan Sultans,m_30,David Willey,4,0,0,22,3,1,0,5.5,24,1
+Quetta Gladiators vs Multan Sultans,Multan Sultans,m_30,Mohammad Ali,3,0,0,35,1,1,0,11.67,18,1
+Quetta Gladiators vs Multan Sultans,Multan Sultans,m_30,Chris Jordan,2,0,0,12,0,0,0,6,12,1
+Quetta Gladiators vs Multan Sultans,Multan Sultans,m_30,Mohammad Abbas Afridi,3,0,0,14,2,1,0,4.67,18,1
+Quetta Gladiators vs Multan Sultans,Multan Sultans,m_30,Usama Mir,3,5,0,22,3,1,0,6.29,23,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,David Willey,4,0,0,31,1,1,0,7.75,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,Khushdil Shah,2,0,0,20,0,0,0,10,12,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,Mohammad Ali,2,0,0,13,1,0,0,6.5,12,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,Chris Jordan,4,0,0,28,2,0,0,7,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,Iftikhar Ahmed,2,0,0,9,0,0,0,4.5,12,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,Usama Mir,4,0,0,16,2,0,0,4,24,1
+Multan Sultans vs Peshawar Zalmi,Multan Sultans,m_31,Mohammad Abbas Afridi,2,0,0,21,1,0,0,10.5,12,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_31,Mehran Mumtaz,4,0,0,28,1,0,0,7,24,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_31,Luke Wood,3,3,0,33,0,1,0,10,21,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_31,Saim Ayub,4,0,0,17,0,1,0,4.25,24,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_31,Paul Walter,1,0,0,13,0,0,0,13,6,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_31,Aamir Jamal,3,0,0,23,1,1,0,7.67,18,1
+Multan Sultans vs Peshawar Zalmi,Peshawar Zalmi,m_31,Salman Irshad,3,0,0,28,1,0,0,9.33,18,1
+Islamabad United vs Quetta Gladiators,Quetta Gladiators,m_32,Mohammad Amir,4,0,0,20,2,0,0,5,24,1
+Islamabad United vs Quetta Gladiators,Quetta Gladiators,m_32,Mohammad Wasim Jnr,3,0,0,40,1,2,0,13.33,18,1
+Islamabad United vs Quetta Gladiators,Quetta Gladiators,m_32,Akeal Hosein,4,0,0,34,2,0,0,8.5,24,1
+Islamabad United vs Quetta Gladiators,Quetta Gladiators,m_32,Abrar Ahmed,4,0,0,32,1,0,0,8,24,1
+Islamabad United vs Quetta Gladiators,Quetta Gladiators,m_32,Usman Tariq,4,0,0,39,0,0,0,9.75,24,1
+Islamabad United vs Quetta Gladiators,Quetta Gladiators,m_32,Saud Shakeel,1,0,0,5,1,0,0,5,6,1
+Islamabad United vs Quetta Gladiators,Islamabad United,m_32,Imad Wasim,4,0,0,12,3,1,0,3,24,1
+Islamabad United vs Quetta Gladiators,Islamabad United,m_32,Naseem Shah,4,0,0,33,2,3,0,8.25,24,1
+Islamabad United vs Quetta Gladiators,Islamabad United,m_32,Obed McCoy,3,0,0,13,1,1,0,4.33,18,1
+Islamabad United vs Quetta Gladiators,Islamabad United,m_32,Shadab Khan *,4,0,0,42,0,0,0,10.5,24,1
+Islamabad United vs Quetta Gladiators,Islamabad United,m_32,Hunain Shah,1,4,0,15,1,0,0,10.71,10,1
+Islamabad United vs Quetta Gladiators,Islamabad United,m_32,Faheem Ashraf,2,0,0,18,1,0,0,9,12,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_33,Naseem Shah,4,0,0,30,3,0,0,7.5,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_33,Obed McCoy,4,0,0,50,1,1,0,12.5,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_33,Imad Wasim,4,0,0,23,0,0,0,5.75,24,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_33,Salman Ali Agha,1,0,0,13,0,0,0,13,6,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_33,Faheem Ashraf,3,0,0,34,0,1,0,11.33,18,1
+Peshawar Zalmi vs Islamabad United,Islamabad United,m_33,Shadab Khan *,4,0,0,35,1,0,0,8.75,24,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_33,Saim Ayub,3,0,0,34,2,3,0,11.33,18,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_33,Luke Wood,4,0,0,38,1,0,0,9.5,24,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_33,Mehran Mumtaz,4,0,0,31,1,1,0,7.75,24,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_33,Khurram Shahzad,3,0,0,22,1,0,1,7.33,18,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_33,Aamir Jamal,3,0,0,41,0,2,0,13.67,18,1
+Peshawar Zalmi vs Islamabad United,Peshawar Zalmi,m_33,Arif Yaqoob,2,0,0,19,0,1,0,9.5,12,1
+Multan Sultans vs Islamabad United,Islamabad United,m_34,Naseem Shah,4,0,0,25,0,1,2,6.25,24,1
+Multan Sultans vs Islamabad United,Islamabad United,m_34,Imad Wasim,4,0,0,23,5,0,0,5.75,24,1
+Multan Sultans vs Islamabad United,Islamabad United,m_34,Hunain Shah,1,0,0,17,0,0,0,17,6,1
+Multan Sultans vs Islamabad United,Islamabad United,m_34,Faheem Ashraf,3,0,0,33,0,0,0,11,18,1
+Multan Sultans vs Islamabad United,Islamabad United,m_34,Tymal Mills,4,0,0,24,0,0,0,6,24,1
+Multan Sultans vs Islamabad United,Islamabad United,m_34,Shadab Khan *,4,0,0,32,3,2,0,8,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,David Willey,2,0,0,15,1,0,0,7.5,12,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,Khushdil Shah,4,0,1,21,2,0,0,5.25,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,Mohammad Ali,4,0,0,32,1,0,0,8,24,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,Iftikhar Ahmed,3,0,0,19,2,0,0,6.33,18,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,Chris Jordan,3,0,0,28,0,0,0,9.33,18,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,Usama Mir,3,0,0,36,1,1,0,12,18,1
+Multan Sultans vs Islamabad United,Multan Sultans,m_34,Mohammad Abbas Afridi,1,0,0,9,0,0,0,9,6,1
